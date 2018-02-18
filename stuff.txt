@@ -1,0 +1,67 @@
+github.com
+eri.livia@gmail.com
+nagy A es ninja lany plusz chan plusz 1
+
+https://code.visualstudio.com/download
+ubuntu maybe
+
+do settings
+extensions(bottom button, square)->search and install->settings sync->reload
+shift+alt+d
+github access token
+5fd1360316ae1b79a99d9cb0a90172401c6eea28
+gist id
+876ee9bc382cf59bc33c609282aeada0
+
+
+https://nodejs.org/en/
+Current - Latest features
+
+
+https://git-scm.com/
+Blue button inside a computer
+all 3 checkboxes checked in the end
+
+
+https://gulpjs.com/
+once write this into vscode terminal - npm install gulp-cli -g
+
+
+filezilla
+ftp program
+https://filezilla-project.org/
+dowloand filezilla client
+not pro version
+in the end there are 2 checkboxes at the bottom, don't tick
+
+
+PHP if not installed
+
+
+composer
+write composer php
+or
+https://getcomposer.org/download/
+composer-setup.exe at the top
+
+command prompt or terminal
+command-line installation
+https://getcomposer.org/download/
+control c = clear, new line
+right click or shift + insert = paste
+
+===============================================================================
+
+before start a new project
+
+
+
+index.html + scss folder and inside style.scss file
+
+terminal - npm install
+sass - and write gulp
+
+change and save style and write the style.css file into the index.html
+
+close gulp - control c
+and if I already have a project than I open vscode and in the terminal = gulp
